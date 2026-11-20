@@ -1,0 +1,133 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+
+
+
+/*全体に関して*/
+.toc {
+  margin-bottom: 300px;
+}
+
+header {
+  background-color: #DEDEDE;
+}
+
+
+
+
+
+.header {
+  padding: 30px;
+}
+
+.header h1 {
+  margin: 0;
+}
+
+.header h2 {
+  margin: 0;
+	padding-top: 50px;
+  font-size: 20px;
+}
+.header h3 {
+  margin: 0;
+	padding-top: 10px;
+	padding-left: 3px;
+	font-size: 12px;
+	font-weight: 100;
+	letter-spacing: 8px;
+}
+
+.credit {
+  text-align: right;
+  margin: 8px 0 0;
+  font-size: 12px;
+  letter-spacing: 3px;
+}
+
+
+p2 {
+  margin: 4px 0;
+}
+
+
+.button-index {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.button-index a {
+    color: black;
+    text-decoration: none;
+    transition: color 0.2s;
+	ransition: underline 0.2s;
+}
+
+.button-index a:hover {
+    color: blue;
+	text-decoration: underline;
+}
+
+
+
+/*リンク部分の装飾*/
+.toc {
+  padding: 20px;
+  border: 0px solid #ccc;
+  border-radius: 8px;
+}
+
+.toc ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.toc li {
+  margin: 8px 0;
+}
+
+.toc a {
+  text-decoration: none;
+  color: #003CFF;
+}
+
+.toc a:hover {
+  text-decoration: underline;
+}
+
+.caption {
+  margin-bottom: 400px ;
+}
+
+
+empbox {
+  margin-bottom: 400px;
+  padding: 24px;
+}
+
+
+
+
+
+
+
+.color-square-hachiya {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-color: #8BC34A;
+  margin-right: 8px;
+}
+
+.color-square-akasaka {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-color: #ad1a1c;
+  margin-right: 8px;
+}
