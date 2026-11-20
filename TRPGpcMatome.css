@@ -131,3 +131,11 @@ empbox {
   background-color: #ad1a1c;
   margin-right: 8px;
 }
+
+.color-square-sazarai {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-color: #E7A6B7;
+  margin-right: 8px;
+}
