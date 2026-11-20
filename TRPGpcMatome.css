@@ -139,3 +139,11 @@ empbox {
   background-color: #E7A6B7;
   margin-right: 8px;
 }
+
+.color-square-Narita {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-color: #339e6c;
+  margin-right: 8px;
+}
